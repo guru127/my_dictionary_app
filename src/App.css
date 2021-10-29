@@ -1,0 +1,11 @@
+.App {
+  height: 100vh;
+  background-color: rgb(193, 255, 215);
+  color: "black";
+  margin: auto;
+}
+.conatiner {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
