@@ -1,11 +1,14 @@
 .App {
   height: 100vh;
-  background-color: hsl(327, 65%, 37%);
-  color: "black";
   margin: auto;
+  background-color: rgb(17, 14, 15);
 }
 .conatiner {
   display: flex;
   flex-direction: column;
   height: 100vh;
+  background-color: hsl(327, 65%, 37%);
+  color: "black";
+  margin: auto;
+  width: 50%;
 }
