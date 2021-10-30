@@ -1,0 +1,36 @@
+.cards {
+  font-family: "Kumbh+Sans";
+  background-color: rgb(193, 238, 241);
+}
+.word {
+  position: sticky;
+  top: 0;
+  background-color: azure;
+  color: #000;
+  padding-left: 25px;
+  margin: 0px -10px;
+}
+.cards {
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  scrollbar-width: thin;
+  height: 75vh;
+  overflow-x: hidden;
+  border: solid black 1px;
+  border-radius: 10px;
+  padding: 0px 10px;
+}
+.meaning {
+  display: flex;
+  padding: 10px;
+  flex-direction: column;
+  background-color: azure;
+  color: black;
+  border-radius: 10px;
+  margin: 2px 0;
+}
+#line {
+  background-color: darkgrey;
+  width: 100%;
+}

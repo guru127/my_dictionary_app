@@ -1,0 +1,30 @@
+.title {
+  justify-content: space-around;
+  font-size: 5vw;
+  font-family: "Kumbh+Sans";
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: row;
+  height: 10vh;
+  width: 100%;
+  color: white;
+}
+.search {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: row;
+  height: 10vh;
+  width: 100%;
+  color: antiquewhite;
+}
+.body {
+  background-color: rgb(193, 238, 241);
+  border-radius: 10px;
+}
+#searchIcon {
+  color: black;
+}
