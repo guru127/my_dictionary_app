@@ -1,0 +1,13 @@
+.footer {
+  display: flex;
+  justify-content: flex-end;
+  position: sticky;
+  bottom: 0;
+}
+#footer {
+  text-decoration: none;
+  color: black;
+}
+#linkdn {
+  height: 10px;
+}
